@@ -1,6 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Victor Renzzo and my nickname is "vrenzd"!
 
+Estou começando a cursar Inteligência Artificial na FATEC Rio Claro-SP. Estou me aventurando em uma área pela qual me apaixonei, criando e otimizando coisas. Tenho uma predileção por atividades mais complexas e desafiadoras. Atualmente, estou em transição de carreira, saindo da área de Educação Física pela Faculdade Claretiano Rio Claro. No entanto, sempre gostei de mexer em computadores desde pequeno. Adoro video games e pratico esportes rotineiramente.
+
 # Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>
