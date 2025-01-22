@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Victor Renzzo and my nickname is "vrenzd"!
 
-Estou começando a cursar Inteligência Artificial na FATEC Rio Claro-SP. Estou me aventurando em uma área pela qual me apaixonei, criando e otimizando coisas. Tenho uma predileção por atividades mais complexas e desafiadoras. Atualmente, estou em transição de carreira, saindo da área de Educação Física pela Faculdade Claretiano Rio Claro. No entanto, sempre gostei de mexer em computadores desde pequeno. Adoro video games e pratico esportes rotineiramente.
+I am starting to study Artificial Intelligence at FATEC Rio Claro-SP. I am venturing into a field I fell in love with, creating and optimizing things. I have a preference for more complex and challenging activities. Currently, I am transitioning careers, moving from the field of Physical Education at Claretiano Rio Claro College. However, I have always enjoyed working with computers since I was little. I love video games and regularly practice sports. I have a B1 level in English.
 
 # Ferramentas e Tecnologias
 
