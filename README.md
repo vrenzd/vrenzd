@@ -1,7 +1,7 @@
 # 👋 Hello!
 ## I'm Victor Renzzo!
 
-I am starting to study Artificial Intelligence at FATEC Rio Claro-SP. I am venturing into a field I fell in love with, creating and optimizing things. I have a preference for more complex and challenging activities.
+I'm starting to study Artificial Intelligence at FATEC Rio Claro-SP. I am venturing into a field I fell in love with, creating and optimizing things. I have a preference for more complex and challenging activities.
 
 # Ferramentas e Tecnologias
 
