@@ -50,7 +50,6 @@ I'm starting to study Artificial Intelligence at FATEC Rio Claro-SP. I am ventur
 </div>
 
 ## Estatísticas
-## Estatísticas
 <div>
   <a href="https://github.com/vrenzd">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrenzd&layout=compact&langs_count=7&theme=dracula"/>
