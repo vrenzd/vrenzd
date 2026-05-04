@@ -55,3 +55,12 @@ I'm starting to study Artificial Intelligence at FATEC Rio Claro-SP. I am ventur
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+##  Estatísticas
+
+<div align="center">
+  <a href="https://github.com/vrenzd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrenzd&show_icons=true&theme=radical&rank_icon=github&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrenzd&layout=compact&langs_count=7&theme=radical&hide_border=false"/>
+  </a>
+</div>
